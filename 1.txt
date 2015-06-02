@@ -2,5 +2,4 @@ Hello from Dimple
 first change
 second change
 third change
-
-This change is made by Bryan
+this change is made by Bryan
